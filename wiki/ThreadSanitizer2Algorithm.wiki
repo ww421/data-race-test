@@ -1,0 +1,3 @@
+#summary ThreadSanitizer2 Algorithm
+
+*This page has moved to http://code.google.com/p/thread-sanitizer/wiki/ThreadSanitizerAlgorithm *
